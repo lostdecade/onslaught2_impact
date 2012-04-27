@@ -1,0 +1,6 @@
+.DS_Store
+build/
+htdocs/tools
+htdocs/lib/impact
+htdocs/lib/weltmeister
+htdocs/weltmeister.html
