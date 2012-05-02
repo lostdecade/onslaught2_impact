@@ -2,7 +2,7 @@
 
 You should [play the demo!][1] and [read the blog!][2]
 
-Built using [ImpactJS][1] 1.18a.
+Built using [ImpactJS][3] 1.18a.
 
 [@LostDecadeGames][4]
 
